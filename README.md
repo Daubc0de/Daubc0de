@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daubc0de
+- 👋 Hi, I’m @Daubc0de! but you can call me Daub or Daub0
 - 👀 I’m interested in ... Coding! Duh!
 - 🌱 I’m currently learning ... python
 - 📫 How to reach me ... 'coming soon'
